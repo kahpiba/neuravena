@@ -1,8 +1,12 @@
-# OS Files
+# Dependencies
+node_modules/
+
+# Production Build
+dist/
+
+# OS & Logs
 .DS_Store
 Thumbs.db
-
-# Logs & scratch
 *.log
 scratch/
 .system_generated/
